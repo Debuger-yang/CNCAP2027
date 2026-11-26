@@ -1,0 +1,97 @@
+{
+  "project": "待填写的 ADB 车型",
+  "has_adb": true,
+  "measurements": {
+    "low_beam": {
+      "straight": null,
+      "curve": null,
+      "pedestrian": null,
+      "intersection_width": null,
+      "curve_width": null
+    },
+    "high_beam": {
+      "point1": null,
+      "point2": null,
+      "point3": null,
+      "point4": null,
+      "point5": null
+    },
+    "adb_scenarios": {
+      "oncoming_50": {
+        "straight": null,
+        "curve": null,
+        "pedestrian": null,
+        "straight_1_5m": null,
+        "curve_1_5m": null,
+        "pedestrian_1_5m": null
+      },
+      "oncoming_100": {
+        "straight": null,
+        "curve": null,
+        "pedestrian": null,
+        "straight_1_5m": null,
+        "curve_1_5m": null,
+        "pedestrian_1_5m": null
+      },
+      "oncoming_200": {
+        "straight": null,
+        "curve": null,
+        "pedestrian": null,
+        "straight_1_5m": null,
+        "curve_1_5m": null,
+        "pedestrian_1_5m": null
+      },
+      "following_50": {
+        "straight": null,
+        "curve": null,
+        "pedestrian": null,
+        "straight_1_5m": null,
+        "curve_1_5m": null,
+        "pedestrian_1_5m": null
+      },
+      "following_100": {
+        "straight": null,
+        "curve": null,
+        "pedestrian": null,
+        "straight_1_5m": null,
+        "curve_1_5m": null,
+        "pedestrian_1_5m": null
+      },
+      "following_200": {
+        "straight": null,
+        "curve": null,
+        "pedestrian": null,
+        "straight_1_5m": null,
+        "curve_1_5m": null,
+        "pedestrian_1_5m": null
+      }
+    }
+  },
+  "evidence": {
+    "highway_mode_approved": null,
+    "cornering_mode_approved": null,
+    "auto_beam_approved": null,
+    "leveling_approved": null,
+    "reverse_projection_approved": null,
+    "turn_projection_approved": null,
+    "trajectory_test_passed": null,
+    "basic_glare_lm": null,
+    "position_lamp_area_cm2": null,
+    "cutoff_vertical_left_pct": null,
+    "cutoff_horizontal_left_pct": null,
+    "cutoff_drift_left_mrad": null,
+    "cutoff_sharpness_left": null,
+    "cutoff_vertical_right_pct": null,
+    "cutoff_horizontal_right_pct": null,
+    "cutoff_drift_right_mrad": null,
+    "cutoff_sharpness_right": null,
+    "adb_glare_lm": null,
+    "activation_oncoming_m": null,
+    "activation_following_m": null,
+    "response_oncoming_s": null,
+    "response_following_s": null,
+    "single_mask_lanes": null,
+    "multi_mask_passed": null,
+    "reflector_masked": null
+  }
+}

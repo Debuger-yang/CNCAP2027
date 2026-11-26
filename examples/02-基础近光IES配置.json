@@ -1,0 +1,31 @@
+{
+  "project": "示例安装尺寸及径向照度假设，使用前请替换确认",
+  "has_adb": false,
+  "photometry": {
+    "projection": "radial",
+    "low_beam": {
+      "left": {
+        "ies": "ies/left.ies",
+        "x_m": -0.75,
+        "y_m": 0.0,
+        "z_m": 0.75,
+        "yaw_deg": 0.0,
+        "pitch_deg": 0.0
+      },
+      "right": {
+        "ies": "ies/right.ies",
+        "x_m": 0.75,
+        "y_m": 0.0,
+        "z_m": 0.75,
+        "yaw_deg": 0.0,
+        "pitch_deg": 0.0
+      }
+    },
+    "step_m": 0.25,
+    "max_distance_m": 350,
+    "half_width_m": 80
+  },
+  "evidence": {
+    "position_lamp_area_cm2": null
+  }
+}

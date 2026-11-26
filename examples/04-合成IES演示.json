@@ -1,0 +1,25 @@
+{
+  "project": "合成配光演示（非车型）",
+  "has_adb": false,
+  "photometry": {
+    "projection": "radial",
+    "low_beam": {
+      "left": {
+        "ies": "synthetic-TypeA.ies",
+        "x_m": -0.75,
+        "y_m": 0,
+        "z_m": 0.75,
+        "pitch_deg": 0,
+        "yaw_deg": 0
+      },
+      "right": {
+        "ies": "synthetic-TypeA.ies",
+        "x_m": 0.75,
+        "y_m": 0,
+        "z_m": 0.75,
+        "pitch_deg": 0,
+        "yaw_deg": 0
+      }
+    }
+  }
+}
